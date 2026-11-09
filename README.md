@@ -4,7 +4,7 @@
 
 DSA Hub is an educational web platform designed to help students understand Data Structures and Algorithms through organized learning resources, algorithm explanations, and practical examples.
 
-**Live Website:** https://pesingitulasikavya-code.github.io/DSA-hub/
+**Live Website:** https://dsa-hub-demo.vercel.app/?utm_source=chatgpt.com
 
 ---
 
